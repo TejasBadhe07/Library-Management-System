@@ -1,5 +1,3 @@
-#from fileinput import close
-#from sqlite3 import connect
 from sre_parse import State
 from tkinter import*
 from tkinter import ttk
